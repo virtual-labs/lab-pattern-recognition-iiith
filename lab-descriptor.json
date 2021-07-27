@@ -1,0 +1,77 @@
+{
+  "broadArea": {
+    "name": "Computer Science and Engineering",
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+  },
+  "lab": "Pattern recognition",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "cse20-iiith.vlabs.ac.in",
+  "introduction": "The virtual lab on Pattern Recognition is design to supplement a senior undergraduate or graduate level course in Statistical Pattern Recognition. The experiments are designed to improve the clarity in understanding of the basic concepts as well as to enable the student to put them into practical use. It is important that the student goes through the objectives and the underlying theory before carrying out the experiments to get maximum benefit.</br>The primary reference (textbook) for the topics covered by the experiments is: Pattern Classification (2nd ed.), by R.O. Duda, P.E. Hart and D.G. Stork.</br>The experiments are designed to expose you to certain concepts. You are encouraged to carry out variants of the suggested experiments and learn from them. Please make sure that you read the background material and experiment procedure before carrying out the experiments. Trying out the experiments before this does not hurt, but having the background will help you understand the results better.</br>This lab requires few Software Dependencies to run the Simulations</br>i. Java1.7,</br>ii. Browsers Firefox 50 and it's below versions, internet explorer.</br>iii. IcedTea Plugin for Linux Operating System. </br></br> We recommend the following for the smooth running of these simulations </br> Install VirtualBox - Virtual Labs offers a free download of a customized VirtualBox with the required pre installed all the software dependencies(Java 1.7). Please follow the link to download, install and use VirtualBox for Virtual Labs.",
+  "experiments": [
+    {
+      "name": "Feature Representation",
+      "short-name": "feature-representation",
+      "repo": "https://github.com/virtual-labs/exp-feature-representation-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Mean and Covariance",
+      "short-name": "mean-and-covariance",
+      "repo": "https://github.com/virtual-labs/exp-mean-and-covariance-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Linear Perceptron Learning",
+      "short-name": "linear-perceptron-learning",
+      "repo": "https://github.com/virtual-labs/exp-linear-perceptron-learning-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Generation of Random Variables",
+      "short-name": "generation-of-random-variables",
+      "repo": "https://github.com/virtual-labs/exp-generation-of-random-variables-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Bayesian Classification",
+      "short-name": "bayesian-classification",
+      "repo": "https://github.com/virtual-labs/exp-bayesian-classification-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "MLE: Learning the classifier from data",
+      "short-name": "mle",
+      "repo": "https://github.com/virtual-labs/exp-mle-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Data Clustering: K-Means, MST-based",
+      "short-name": "mst-based",
+      "repo": "https://github.com/virtual-labs/exp-mst-based-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Computer Science & Information Technology"],
+    "PG": ["Postgraduate students and Research scholars"]
+  },
+  "objective": "Pattern recognition is generally categorized according to the type of learning procedure used to generate the output value.",
+  "courseAlignment": {
+    "description": "The present lab is aligned with courses such as Introduction to Data Structures, Data Structures in C/C++, and the like. The experiments touch on most topics covered in such courses in most curricula.",
+    "universities": [
+      "Universities with Computer Science & Information Technology"
+    ]
+  },
+  "exp_name": "Data Clustering: K-Means, MST-based",
+  "exp_short_name": "mst-based",
+  "version": "v0.2.0"
+}
