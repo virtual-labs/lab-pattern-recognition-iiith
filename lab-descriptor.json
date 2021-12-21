@@ -14,49 +14,49 @@
       "name": "Feature Representation",
       "short-name": "feature-representation",
       "repo": "https://github.com/virtual-labs/exp-feature-representation-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Mean and Covariance",
       "short-name": "mean-and-covariance",
       "repo": "https://github.com/virtual-labs/exp-mean-and-covariance-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Linear Perceptron Learning",
       "short-name": "linear-perceptron-learning",
       "repo": "https://github.com/virtual-labs/exp-linear-perceptron-learning-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Generation of Random Variables",
       "short-name": "generation-of-random-variables",
       "repo": "https://github.com/virtual-labs/exp-generation-of-random-variables-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Bayesian Classification",
       "short-name": "bayesian-classification",
       "repo": "https://github.com/virtual-labs/exp-bayesian-classification-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "MLE: Learning the classifier from data",
       "short-name": "mle",
       "repo": "https://github.com/virtual-labs/exp-mle-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Data Clustering: K-Means, MST-based",
       "short-name": "mst-based",
       "repo": "https://github.com/virtual-labs/exp-mst-based-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     }
   ],
@@ -73,5 +73,5 @@
   },
   "exp_name": "Data Clustering: K-Means, MST-based",
   "exp_short_name": "mst-based",
-  "version": "v0.9.0"
+  "version": "v0.10.0"
 }
