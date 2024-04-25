@@ -1,10 +1,11 @@
 {
   "broadArea": {
     "name": "Computer Science and Engineering",
-    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+    "code": "CSE"
   },
   "lab": "Pattern recognition",
-  "deployLab": true,
+  "lab_display_name": "Pattern recognition",
   "phase": 2,
   "collegeName": "IIITH",
   "baseUrl": "cse20-iiith.vlabs.ac.in",
@@ -70,8 +71,5 @@
     "universities": [
       "Universities with Computer Science & Information Technology"
     ]
-  },
-  "exp_name": "Data Clustering: K-Means, MST-based",
-  "exp_short_name": "mst-based",
-  "version": "v0.11.0"
+  }
 }
