@@ -22,7 +22,7 @@
       "name": "Mean and Covariance",
       "short-name": "mean-and-covariance",
       "repo": "https://github.com/virtual-labs/exp-mean-and-covariance-iiith",
-      "tag": "v2.0.0",
+      "tag": "v2.0.1",
       "deploy": true
     },
     {
